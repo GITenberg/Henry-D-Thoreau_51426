@@ -1,0 +1,29 @@
+_repo: Henry-D-Thoreau_51426
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sanborn, F. B. (Franklin Benjamin)
+    alias: Sanborn, Franklin Benjamin
+    birthdate: 1831
+    deathdate: 1917
+    gutenberg_agent_id: '42270'
+    url: http://www.gutenberg.org/2009/agents/42270
+description: ''
+gutenberg_issued: '2016-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51426'
+  lccn: '07000010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Intellectuals -- United States -- Biography'
+- !lcsh 'Thoreau, Henry David, 1817-1862'
+- !lcc 'PS'
+- !lcsh 'Naturalists -- United States -- Biography'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- GITenberg
+title: Henry D. Thoreau
+url: http://www.gutenberg.org/ebooks/51426
